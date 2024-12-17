@@ -1,0 +1,20 @@
+{
+    "field": {
+        "id": "primary_key",
+        "kode_dokumen": "varchar",
+        "nama_dokumen": "varchar",
+        "status_dokumen": "varchar",
+        "keterangan": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "kode_dokumen": "Kode Dokumen",
+        "nama_dokumen": "Nama Dokumen",
+        "status_dokumen": "Status Dokumen",
+        "keterangan": "Keterangan",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

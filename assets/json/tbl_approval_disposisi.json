@@ -1,0 +1,26 @@
+{
+    "field": {
+        "id": "primary_key",
+        "id_pelamar": "int",
+        "id_disposisi": "int",
+        "id_approval": "int",
+        "nama_approval": "varchar",
+        "tanggal_approval": "date",
+        "status_approval": "int",
+        "keterangan_approval": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "id_pelamar": "Id Pelamar",
+        "id_disposisi": "Id Disposisi",
+        "id_approval": "Id Approval",
+        "nama_approval": "Nama Approval",
+        "tanggal_approval": "Tanggal Approval",
+        "status_approval": "Status Approval",
+        "keterangan_approval": "Keterangan Approval",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

@@ -1,0 +1,20 @@
+{
+    "field": {
+        "id": "primary_key",
+        "kode": "varchar",
+        "keterangan": "varchar",
+        "singkatan": "varchar",
+        "group": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "kode": "Kode",
+        "keterangan": "Keterangan",
+        "singkatan": "Singkatan",
+        "group": "Group",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

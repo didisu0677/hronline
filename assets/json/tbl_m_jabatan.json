@@ -1,0 +1,20 @@
+{
+    "field": {
+        "id": "primary_key",
+        "kode_jabatan": "varchar",
+        "nama_jabatan": "varchar",
+        "id_department": "int",
+        "kode_department": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "kode_jabatan": "Kode Jabatan",
+        "nama_jabatan": "Nama Jabatan",
+        "id_department": "Id Department",
+        "kode_department": "Kode Department",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

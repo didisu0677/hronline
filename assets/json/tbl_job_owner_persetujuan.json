@@ -1,0 +1,22 @@
+{
+    "field": {
+        "id": "primary_key",
+        "userid": "int",
+        "id_group_persetujuan": "int",
+        "id_lokasi": "text",
+        "id_team": "text",
+        "id_divisi": "text",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "userid": "Userid",
+        "id_group_persetujuan": "Id Group Persetujuan",
+        "id_lokasi": "Id Lokasi",
+        "id_team": "Id Team",
+        "id_divisi": "Id Divisi",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

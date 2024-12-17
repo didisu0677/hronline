@@ -1,0 +1,18 @@
+{
+    "field": {
+        "id": "primary_key",
+        "nama_persyaratan": "varchar",
+        "status_persyaratan": "varchar",
+        "keterangan": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "nama_persyaratan": "Nama Persyaratan",
+        "status_persyaratan": "Status Persyaratan",
+        "keterangan": "Keterangan",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

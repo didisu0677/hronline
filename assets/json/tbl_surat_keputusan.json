@@ -1,0 +1,28 @@
+{
+    "field": {
+        "id": "primary_key",
+        "jenis_sk": "int",
+        "nip": "varchar",
+        "nama": "varchar",
+        "tanggal_berlaku": "date",
+        "tanggal_selesai": "date",
+        "jabatan_lama": "varchar",
+        "jabatan_baru": "varchar",
+        "atasan": "varchar",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "jenis_sk": "Jenis Sk",
+        "nip": "Nip",
+        "nama": "Nama",
+        "tanggal_berlaku": "Tanggal Berlaku",
+        "tanggal_selesai": "Tanggal Selesai",
+        "jabatan_lama": "Jabatan Lama",
+        "jabatan_baru": "Jabatan Baru",
+        "atasan": "Atasan",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}

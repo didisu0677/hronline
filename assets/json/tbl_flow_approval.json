@@ -1,0 +1,20 @@
+{
+    "field": {
+        "id": "primary_key",
+        "jenis": "varchar",
+        "nama": "varchar",
+        "level": "int",
+        "mandatory": "int",
+        "is_active": "boolean"
+    },
+    "label": {
+        "id": "Id",
+        "jenis": "Jenis",
+        "nama": "Nama",
+        "level": "Level",
+        "mandatory": "Mandatory",
+        "is_active": "Aktif"
+    },
+    "validation": [],
+    "alias": []
+}
